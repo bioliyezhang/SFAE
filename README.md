@@ -13,9 +13,9 @@ We’ve tested in multiple datasets and such cost function will normally yield a
 ## How to use
 python SFAE_CR_estimator.py --input_file --num_component 
 
---input_file      .csv file format. TPM value matrix of different fractions(columns represent fractions and rows represent genes, TPM of whole cell should be the first column).
+`--input_file <arg>` .csv file format. TPM value matrix of different fractions(columns represent fractions and rows represent genes, TPM of whole cell should be the first column).
 
---num_component      the number of cell divided into fractions.
+`--num_component <arg>` the number of cell divided into fractions.
 
 ## System Requirements
 Python 3.7.6
