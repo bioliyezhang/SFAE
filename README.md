@@ -10,7 +10,7 @@ We’ve tested in multiple datasets and such cost function will normally yield a
 
 ![image](https://github.com/bioliyezhang/SFAE/blob/main/concept.png)
 
-## Install
+## Installation
 The SFAE tool is a package written by python, you could just download `SFAE_CR_estimator.py` and directly use it.
 
 ## How to use
